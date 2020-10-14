@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**LoanGauchat/LoanGauchat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I'm currently developing DailyRain using Kotlin
 - 🌱 I’m learning AWS 
