@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently developing DailyRain using Kotlin
 - 🌱 I’m learning AWS 
-- 🥅 2020 Goals: - Learn 1 Javascript Framework - Create a web application - Publish an app on the playstore - Run my first 1/26 marathon
+- 🥅 2020 Goals: * Learn 1 Javascript Framework * Create a web application * Publish an app on the playstore * Run my first 1/26 marathon
 
 ### Connect with me:
 
