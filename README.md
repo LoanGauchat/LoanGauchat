@@ -10,7 +10,7 @@
   - Run my first 1/26 marathon
 
 ### Connect with me:
-[<img align="left" alt="mailto:loan.gauchat@hotmail.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
+:e-mail:[email]
 
 <br />
 
