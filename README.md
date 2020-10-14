@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Loan
 
 
-## I'm a Computer science graudate!
+## I'm a Computer Science graudate
 
 - 🔭 I'm currently developing a rain alarm app using Kotlin
 - 🌱 I’m learning AWS 
