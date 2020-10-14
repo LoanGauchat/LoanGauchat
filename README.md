@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Loan
 
 
 - 🔭 I'm currently developing a rain alarm app using Kotlin
