@@ -1,13 +1,15 @@
 ### Hi there 👋
 
+<!--
+**LoanGauchat/LoanGauchat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I'm currently developing DailyRain using Kotlin
 - 🌱 I’m learning AWS 
-- 🥅 2020 Goals: Learn 1 Javascript Framework<br />
-                  Create a web application<br />
-                  Publish an app on the playstore<br />
-                  Run my first 1/26 marathon<br />
-
+- 🥅 2020 Goals: 
+    - Learn 1 Javascript Framework
+    - Create a web application
+    - Publish an app on the playstore
+    - Run my first 1/26 marathon
 
 ### Connect with me:
 
