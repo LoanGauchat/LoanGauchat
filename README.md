@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm currently developing DailyRain using Kotlin
+- 🔭 I'm currently developing a rain alarm app using Kotlin
 - 🌱 I’m learning AWS 
 - 🥅 2020 Goals: 
   - Learn 1 Javascript Framework 
