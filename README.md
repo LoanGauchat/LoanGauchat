@@ -3,11 +3,10 @@
 
 ## I'm a Computer Science graduate
 
-- 🔭 I'm currently developing a rain alarm app using Kotlin
-- 🌱 I’m learning AWS 
-- 🥅 2020 Goals: 
-  - Learn 1 Javascript Framework 
-  - Create a web application 
+- 🔭 I'm currently learning about cyber-security
+- Software Engineer intern at Lunaphore
+- 🥅 2021 Goals:  
+  - Finish 
   - Publish an app on the playstore 
   - Run my first 1/26 marathon
 
