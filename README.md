@@ -6,7 +6,7 @@
 - 🔭 I'm currently learning about cyber-security
 - Software Engineer intern at Lunaphore
 - 🥅 2021 Goals:  
-  - Finish 
+  - Finish programming challenges on root-me.org 
   - Publish an app on the playstore 
   - Run my first 1/26 marathon
 
