@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Loan
 
 
-## I'm a Computer Science graduate
+## I'm a Data Analyst
 
 - 🔭 I'm currently learning about cyber-security
-- Software Engineer intern at Lunaphore
+- Data Analyst Assistant at He-ARC
 - 🥅 2021 Goals:  
-  - Finish programming challenges on root-me.org 
+  - Find a Raspberry PI project
   - Publish an app on the playstore 
   - Run my first 1/26 marathon
 
