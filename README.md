@@ -1,15 +1,5 @@
 ### Hi there 👋, I'm Loan
 
-
-## I'm a Data Analyst
-
-- 🔭 I'm currently learning about cyber-security
-- Data Analyst Assistant at He-ARC
-- 🥅 2021 Goals:  
-  - Find a Raspberry PI project
-  - Publish an app on the playstore 
-  - Run my first 1/26 marathon
-
 ### Connect with me:
 [<img align="left" alt="mailto:loan.gauchat@hotmail.com" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][email]
 <br />
